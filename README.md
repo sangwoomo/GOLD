@@ -1,5 +1,6 @@
 # Mining GOLD Samples for Conditional GANs
 
+PyTorch implementation of ["Mining GOLD Samples for Conditional GANs"](https://arxiv.org/abs/1910.09170) (NeurIPS 2019).
 
 ## Run experiments
 
